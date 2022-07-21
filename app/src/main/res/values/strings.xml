@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bside Test</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor.
+    </string>
+    <string name="api_key">c8edf0514590472bf49c4851b13ba1cd</string>
+    <string name="api_access_token">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjOGVkZjA1MTQ1OTA0NzJiZjQ5YzQ4NT
+        FiMTNiYTFjZCIsInN1YiI6IjYxOTdlZGY3NWMwNzFiMDA5MjBjNGQ3YiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2Z
+        XJzaW9uIjoxfQ.C9XZEgtgJaVC9TzFlUxTAzAHsjGifb4G_vDEUUskgTA</string>
+</resources>
